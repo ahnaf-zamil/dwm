@@ -12,6 +12,7 @@ I'm using DWM 6.1 btw :D
 
 - [Vanity Gaps](https://dwm.suckless.org/patches/vanitygaps/) - Cuz gaps increase your swag
 - [Autostart](https://dwm.suckless.org/patches/autostart/) - To run scripts after startup (e.g compositor, wallpaper manager, statusbar, etc.)
+- [Tatami](https://dwm.suckless.org/patches/tatami/) - Cuz I don't like the normal layout
 
 ## Installing
 ```bash
